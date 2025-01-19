@@ -11,3 +11,9 @@ Steps to replicate
 3 Enable static website hosting
 
 
+
+ My Static Website Project
+This project is hosted on Amazon S3. Visit it here:  
+http://my-first-static-art-24.s3-website.ap-south-1.amazonaws.com/ 
+
+
